@@ -4,6 +4,22 @@ A collection of art designs created for Company that prints these art designs on
 
 Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/), [Krita](https://krita.org/en/).
 
+## Act Cool
+
+<img src="./art designs/art design 50/actcool.png" width="840" alt="Art design 50">
+
+## Magazine
+
+<img src="./art designs/art design 49/magazine.png" width="840" alt="Art design 49">
+
+## Paths
+
+<img src="./art designs/art design 48/paths.png" width="840" alt="Art design 48">
+
+## Past Lives
+
+<img src="./art designs/art design 47/pastlives.png" width="840" alt="Art design 47">
+
 ## Doors
 
 <img src="./art designs/art design 46/doors.png" width="840" alt="Art design 46">
