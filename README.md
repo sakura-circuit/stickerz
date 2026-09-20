@@ -4,202 +4,114 @@ A collection of art designs created for Company that prints these art designs on
 
 Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/), [Krita](https://krita.org/en/).
 
-## Act Cool
-
-<img src="./art designs/art design 50/actcool.png" width="840" alt="Art design 50">
-
-## Magazine
-
-<img src="./art designs/art design 49/magazine.png" width="840" alt="Art design 49">
-
-## Paths
-
-<img src="./art designs/art design 48/paths.png" width="840" alt="Art design 48">
-
-## Past Lives
-
-<img src="./art designs/art design 47/pastlives.png" width="840" alt="Art design 47">
-
-## Doors
-
-<img src="./art designs/art design 46/doors.png" width="840" alt="Art design 46">
-
 ## Teeth
 
-<img src="./art designs/art design 45/teeth.png" width="840" alt="Art design 45">
+<img src="./my art/art 28/teeth.png" width="840" alt="Art design 28">
 
 ## Abstract
 
-<img src="./art designs/art design 44/abstract.png" width="840" alt="Art design 44">
+<img src="./my art/art 27/abstract.png" width="840" alt="Art design 27">
 
 ## Mirror
 
-<img src="./art designs/art design 43/mirror.png" width="840" alt="Art design 43">
-
-## Abstract
-
-<img src="./art designs/art design 42/abstract.png" width="840" alt="Art design 42">
+<img src="./my art/art 26/mirror.png" width="840" alt="Art design 26">
 
 ## Sky
 
-<img src="./art designs/art design 41/sky.png" width="840" alt="Art design 41">
+<img src="./my art/art 25/sky.png" width="840" alt="Art design 25">
 
 ## Abstract
 
-<img src="./art designs/art design 40/abstract.png" width="840" alt="Art design 40">
+<img src="./my art/art 24/abstract.png" width="840" alt="Art design 24">
 
 ## Abstract
 
-<img src="./art designs/art design 39/abstract.png" width="840" alt="Art design 39">
-
-## Doubting
-
-<img src="./art designs/art design 38/doubting.png" width="840" alt="Art design 38">
-
-## Abstract
-
-<img src="./art designs/art design 37/abstract.png" width="840" alt="Art design 37">
-
-## Clarity
-
-<img src="./art designs/art design 36/clarity.png" width="840" alt="Art design 36">
-
-## Abstract
-
-<img src="./art designs/art design 35/abstract.png" width="840" alt="Art design 35">
+<img src="./my art/art 23/abstract.png" width="840" alt="Art design 23">
 
 ## Repeat
 
-<img src="./art designs/art design 34/repeat.png" width="840" alt="Art design 34">
+<img src="./my art/art 22/repeat.png" width="840" alt="Art design 22">
 
-## Pool
+## Psychohazard
 
-<img src="./art designs/art design 33/pool.png" width="840" alt="Art design 33">
-
-## PsychoHazard
-
-<img src="./art designs/art design 32/psychohazard.png" width="840" alt="Art design 32">
+<img src="./my art/art 21/psychohazard.png" width="840" alt="Art design 21">
 
 ## Fly
 
-<img src="./art designs/art design 31/fly.png" width="840" alt="Art design 31">
+<img src="./my art/art 20/fly.png" width="840" alt="Art design 20">
 
 ## Nightrider
 
-<img src="./art designs/art design 30/nightrider.png" width="840" alt="Art design 30">
+<img src="./my art/art 19/nightrider.png" width="840" alt="Art design 19">
 
-## Poster art
+## Magazine
 
-<img src="./art designs/art design 29/poster.png" width="840" alt="Art design 29">
+<img src="./my art/art 18/magazine.png" width="840" alt="Art design 18">
 
-## Magazine art
+## Architecture
 
-<img src="./art designs/art design 28/magazine.png" width="840" alt="Art design 28">
+<img src="./my art/art 17/architecture.png" width="840" alt="Art design 17">
 
-## Architecture art
+## Comic
 
-<img src="./art designs/art design 27/architecture.png" width="840" alt="Art design 27">
+<img src="./my art/art 16/comic.png" width="840" alt="Art design 16">
 
-## Comic art
+## Animals
 
-<img src="./art designs/art design 26/comic.png" width="840" alt="Art design 26">
+<img src="./my art/art 15/animals.png" width="840" alt="Art design 15">
 
-## Animal art
+## Graffiti
 
-<img src="./art designs/art design 25/animals.png" width="840" alt="Art design 25">
+<img src="./my art/art 14/graffiti.png" width="840" alt="Art design 14">
 
-## Graffiti art
+## Skull
 
-<img src="./art designs/art design 24/graffiti.png" width="840" alt="Art design 24">
+<img src="./my art/art 13/skull.png" width="840" alt="Art design 13">
 
-## Comic art
+## Abstract
 
-<img src="./art designs/art design 23/skull.png" width="840" alt="Art design 23">
+<img src="./my art/art 12/abstract.png" width="840" alt="Art design 12">
 
-## Abstract art
+## City
 
-<img src="./art designs/art design 22/abstract.png" width="840" alt="Art design 22">
+<img src="./my art/art 11/city.png" width="840" alt="Art design 11">
 
-## City art
+## Fashion
 
-<img src="./art designs/art design 21/city.png" width="840" alt="Art design 21">
+<img src="./my art/art 10/fashion.png" width="840" alt="Art design 10">
 
-## Fashion art
+## Anime
 
-<img src="./art designs/art design 20/fashion.png" width="840" alt="Art design 20">
+<img src="./my art/art 9/anime.png" width="840" alt="Art design 9">
 
-## Anime art
+## Androids
 
-<img src="./art designs/art design 19/anime.png" width="840" alt="Art design 19">
+<img src="./my art/art 8/androids.png" width="840" alt="Art design 8">
 
-## Fairytale art
+## Coffee shop
 
-<img src="./art designs/art design 18/Fairytale.png" width="840" alt="Art design 18">
+<img src="./my art/art 7/coffee shop.png" width="840" alt="Art design 7">
 
-## Androids art
+## Summer vibe
 
-<img src="./art designs/art design 17/androids.png" width="840" alt="Art design 17">
+<img src="./my art/art 6/summer vibe.png" width="840" alt="Art design 6">
 
-## Abstract architecture
+## Paint
 
-<img src="./art designs/art design 16/abstract arch.png" width="840" alt="Art design 16">
+<img src="./my art/art 5/Paint.png" width="840" alt="Art design 5">
 
-## Coffee shop art
+## Metal
 
-<img src="./art designs/art design 15/coffee shop.png" width="840" alt="Art design 15">
+<img src="./my art/art 4/Metal.png" width="840" alt="Art design 4">
 
-## Abstract art
+## Comic
 
-<img src="./art designs/art design 14/abstract design.png" width="840" alt="Art design 14">
+<img src="./my art/art 3/comic art.png" width="840" alt="Art design 3">
 
-## Summer vibe art
+## Comic
 
-<img src="./art designs/art design 13/summer vibe.png" width="840" alt="Art design 13">
+<img src="./my art/art 2/Comic art.png" width="840" alt="Art design 2">
 
-## Street paint art
+## Anime
 
-<img src="./art designs/art design 12/Paint.png" width="840" alt="Art design 12">
-
-## Metal art
-
-<img src="./art designs/art design 11/Metal.png" width="840" alt="Art design 11">
-
-## Comic art
-
-<img src="./art designs/art design 10/comic art.png" width="840" alt="Art design 10">
-
-## Comic art
-
-<img src="./art designs/art design 9/Comic art.png" width="840" alt="Art design 9">
-
-## Test of CMYK colors on lights through transparent panels of transparent case of desktop computer
-
-<img src="./art designs/art design 8/CMYK Light and Color Test.png" width="840" alt="Art design 8">
-
-## Test of RGB colors on lights through transparent panels of transparent case of desktop computer
-
-<img src="./art designs/art design 7/RGB Light and Color Test.png" width="840" alt="Art design 7">
-
-## Mutant art
-
-<img src="./art designs/art design 6/EL Anime.png" width="840" alt="Art design 6">
-
-## Art from game Valorant
-
-<img src="./art designs/art design 5/VC Gekko.png" width="840" alt="Art design 5">
-
-## Art from game Valorant
-
-<img src="./art designs/art design 4/VC Deadlock.png" width="840" alt="Art design 4">
-
-## Art from game Valorant
-
-<img src="./art designs/art design 3/VC Cypher.png" width="840" alt="Art design 3">
-
-## Art from game Valorant
-
-<img src="./art designs/art design 2/VC Brimstone.png" width="840" alt="Art design 2">
-
-## Art from game Valorant
-
-<img src="./art designs/art design 1/VC Breach.png" width="840" alt="Art design 1">
+<img src="./my art/art 1/EL Anime.png" width="840" alt="Art design 1">
