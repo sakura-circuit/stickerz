@@ -4,6 +4,10 @@ A collection of art created for company that prints this art on: front and side 
 
 Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/), [Krita](https://krita.org/en/).
 
+## Lights
+
+<img src="./my art/art 29/lights.png" width="840" alt="Art design 29">
+
 ## Teeth
 
 <img src="./my art/art 28/teeth.png" width="840" alt="Art design 28">
