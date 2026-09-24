@@ -4,6 +4,18 @@ A collection of art created for company that prints this art on: front and side 
 
 Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/), [Krita](https://krita.org/en/).
 
+## Void
+
+<img src="./my art/art 32/void.png" width="840" alt="Art design 32">
+
+## Circle
+
+<img src="./my art/art 31/circle.png" width="840" alt="Art design 31">
+
+## Flower
+
+<img src="./my art/art 30/flower.png" width="840" alt="Art design 30">
+
 ## Lights
 
 <img src="./my art/art 29/lights.png" width="840" alt="Art design 29">
