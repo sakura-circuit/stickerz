@@ -4,6 +4,22 @@ A collection of art created for company that prints this art on: front and side 
 
 Used software: [Photoshop](https://www.adobe.com/products/photoshop.html), [Gimp](https://www.gimp.org/), [Krita](https://krita.org/en/).
 
+## Tunnel
+
+<img src="./my art/art 36/tunnel.png" width="840" alt="Art design 36">
+
+## Chaos
+
+<img src="./my art/art 35/chaos.png" width="840" alt="Art design 35">
+
+## Body Puzzle
+
+<img src="./my art/art 34/bodypuzzle.png" width="840" alt="Art design 34">
+
+## Graveyard
+
+<img src="./my art/art 33/graveyard.png" width="840" alt="Art design 33">
+
 ## Void
 
 <img src="./my art/art 32/void.png" width="840" alt="Art design 32">
