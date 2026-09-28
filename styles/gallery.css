@@ -1,0 +1,21 @@
+.gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* horizontal */
+    align-items: center; /* vertical */
+
+    padding-top: 80px;
+}
+
+.gallery-item {
+    border: 1px solid #5c4d4f;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 50px;
+
+    background-color: #705c61;
+}
+
+.gallery-item img {
+    width: 840px;
+}

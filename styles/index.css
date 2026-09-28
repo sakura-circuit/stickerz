@@ -1,0 +1,29 @@
+.home-message {
+    font-family: "Labrada-Regular";
+    font-size: 24px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.image-of-day {
+    border: 1px solid #5c4d4f;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 50px;
+
+    background-color: #705c61;
+}
+
+.image-of-day img {
+    width: 840px;
+}
+
+.home-message {
+    padding-top: 50px;
+    color: #3b2f31;
+}
