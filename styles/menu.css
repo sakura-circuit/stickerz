@@ -13,8 +13,8 @@
 
     gap: 30px;
 
-    background-color: #705c61;
-    border-bottom: 1px solid #ffa8b6;
+    background-color: #272127;
+    border-bottom: 1px solid #463638;
 
     box-sizing: border-box;
     z-index: 1000;
@@ -23,15 +23,15 @@
 .menu a {
     font-family: "Labrada-Regular";
     font-size: 32px;
-    color: #ffa8b6;
+    color: rgb(122, 111, 111);
     cursor: pointer;
     text-decoration: none;
 }
 
 .menu a:hover {
-    color: #edf7f6;
+    color: #576160;
 }
 
 .menu a.active {
-    color: #9df9ef;
+    color: #a2aaa6;
 }

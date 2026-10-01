@@ -10,5 +10,9 @@
 *.kra
 *.kra~
 
+# Ignore tiff files anywhere in the repository
+*.tif
+*.tif~
+
 # Ignore Documentation folder
 /Documentation/

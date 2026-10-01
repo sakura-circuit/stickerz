@@ -8,12 +8,12 @@
 }
 
 .gallery-item {
-    border: 1px solid #5c4d4f;
+    border: 1px solid #3f3234;
     border-radius: 10px;
     padding: 50px;
     margin: 50px;
 
-    background-color: #705c61;
+    background-color: #161012;
 }
 
 .gallery-item img {
