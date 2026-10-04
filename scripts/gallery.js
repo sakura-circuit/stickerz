@@ -16,7 +16,9 @@ function loadNextImage() {
         displayedImage.alt = `Gallery Image ${i}`;
 
         galleryItem.appendChild(displayedImage);
-        gallery.appendChild(galleryItem);
+
+        // Put newest image at the beginning
+        gallery.prepend(galleryItem);
 
         i++;
         loadNextImage();
