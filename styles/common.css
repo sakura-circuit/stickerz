@@ -2,5 +2,23 @@ body {
     background-color: #181117;
 
     margin: 0;
-    padding-top: 60px;
+    padding: 0;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.page-content {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.remaining {
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }

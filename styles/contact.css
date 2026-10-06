@@ -1,19 +1,9 @@
-.container {
+.contact-content {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
 
-    padding-left: 200px;
-    padding-right: 200px;
-
-    margin-top: 50px;
-}
-
-.container a {
     font-family: "Labrada-Regular";
-    font-size: 24px;
-    width: 600px;
-    text-align: left;
-    text-decoration: none;
-    color: rgb(138, 130, 130);
+    font-size: 15px;
+    color: gray;
 }

@@ -11,14 +11,40 @@
         <link rel="icon" type="image/x-icon" href="favicon.ico" />
     </head>
     <body>
-        <div class="menu">
-            <a href="index.html">Gallery</a>
-            <a href="pages/about.html">About</a>
-            <a href="pages/biography.html">Biography</a>
-            <a href="pages/contact.html">Contact</a>
-        </div>
+        <div class="content-container">
+            <div class="remaining">
+                <div class="page-content">
+                    <div class="gallery" id="gallery"></div>
+                    <div class="gallery-control" id="gallery-control">
+                        <div class="gallery-image-no-container">
+                            <span>Number of images</span>
 
-        <div class="gallery" id="gallery"></div>
+                            <span id="image-count"></span>
+                        </div>
+                        <div class="gallery-image-no-container">
+                            <span>Image number</span>
+                            <input
+                                class="gallery-image-no"
+                                type="text"
+                                inputmode="numeric"
+                                pattern="[0-9]*"
+                                placeholder="Enter image number"
+                            />
+                        </div>
+                        <span class="gallery-image-next">Next image</span>
+                        <span class="gallery-image-previous"
+                            >Previous image</span
+                        >
+                    </div>
+                </div>
+            </div>
+            <div class="menu">
+                <a href="index.html">Gallery</a>
+                <a href="pages/about.html">About</a>
+                <a href="pages/biography.html">Biography</a>
+                <a href="pages/contact.html">Contact</a>
+            </div>
+        </div>
 
         <script src="scripts/menu.js"></script>
         <script src="scripts/gallery.js"></script>
