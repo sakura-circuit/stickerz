@@ -9,7 +9,7 @@ let totalImages = 0;
 
 // Returns the path for an image number
 function getImagePath(number) {
-    return `../my art/art ${number}/art ${number}.png`;
+    return `my art/art ${number}/art ${number}.png`;
 }
 
 // Check how many images exist
