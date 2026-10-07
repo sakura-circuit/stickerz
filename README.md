@@ -6,4 +6,4 @@ Used software: [Gimp](https://www.gimp.org/)
 
 ## Web site
 
-https://sakura-circuit.github.io/stickerz/
+https://splatter-graffiti.github.io/stickerz/
