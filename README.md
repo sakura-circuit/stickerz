@@ -1,6 +1,6 @@
 # Stickerz
 
-A collection of art created for company that prints this art on: front and side of transparent case of desktop computer, lid of laptop devices, back of mobile phones, back of tablet devices, on thin material that can be sticked on any surface.
+A collection of my art created for printing on thin material that can be sticked on any surface. Common use can be for : posters on walls, posters in cars, sticked on sides of speakers, sticked on front and side of cases of desktop computers, sticked on lid of laptop devices, sticked on back of mobile phones, sticked on back of tablet devices.
 
 Used software: [Gimp](https://www.gimp.org/)
 

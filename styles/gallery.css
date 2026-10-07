@@ -1,8 +1,8 @@
 .gallery {
     display: flex;
     margin: 10px;
-    width: 640px;
-    height: 385px;
+    width: 900px;
+    height: 541px;
 }
 
 .gallery-item {
@@ -15,9 +15,8 @@
     margin: 10px;
 
     background-color: #161012;
-
-    width: 640px;
-    height: 385px;
+    width: 900px;
+    height: 541px;
 
     display: flex;
     justify-content: center;
