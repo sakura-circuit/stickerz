@@ -4,41 +4,15 @@ const imageNumberInput = document.querySelector(".gallery-image-no");
 const nextButton = document.querySelector(".gallery-image-next");
 const previousButton = document.querySelector(".gallery-image-previous");
 
+// Set the total number of images here
+const TOTAL_IMAGES = 48;
+
 let currentImage = 1;
-let totalImages = 0;
+let totalImages = TOTAL_IMAGES;
 
 // Returns the path for an image number
 function getImagePath(number) {
     return `my art/art ${number}/art ${number}.png`;
-}
-
-// Check how many images exist
-function findTotalImages() {
-    let number = 1;
-
-    function checkNextImage() {
-        const image = new Image();
-
-        image.onload = function () {
-            totalImages = number;
-
-            number++;
-            checkNextImage();
-        };
-
-        image.onerror = function () {
-            imageCount.textContent = totalImages;
-
-            // Set maximum allowed value
-            imageNumberInput.max = totalImages;
-
-            loadImage(currentImage);
-        };
-
-        image.src = getImagePath(number);
-    }
-
-    checkNextImage();
 }
 
 // Display an image
@@ -61,17 +35,15 @@ function loadImage(number) {
     gallery.appendChild(galleryItem);
 
     image.onload = function () {
-        setTimeout(() => {
-            const displayedImage = document.createElement("img");
+        const displayedImage = document.createElement("img");
 
-            displayedImage.src = image.src;
-            displayedImage.alt = `Gallery Image ${number}`;
+        displayedImage.src = image.src;
+        displayedImage.alt = `Gallery Image ${number}`;
 
-            galleryItem.replaceChildren(displayedImage);
+        galleryItem.replaceChildren(displayedImage);
 
-            currentImage = number;
-            imageNumberInput.value = number;
-        }, 500);
+        currentImage = number;
+        imageNumberInput.value = number;
     };
 
     image.onerror = function () {
@@ -117,5 +89,15 @@ imageNumberInput.addEventListener("keydown", function (event) {
     }
 });
 
+// Mark current menu item as active
+function markMenu() {
+    const link = document.querySelector(".menu a");
+    link.classList.add("active");
+}
+
 // Start
-findTotalImages();
+imageCount.textContent = totalImages;
+imageNumberInput.max = totalImages;
+
+markMenu();
+loadImage(currentImage);
