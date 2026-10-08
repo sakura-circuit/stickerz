@@ -1,0 +1,19 @@
+Kuciste 1
+Samo jedna transparentna strana w/h:
+35x36.7 cm
+
+Kuciste 2
+Samo jedna transparentna strana w/h: 
+33.8x40 cm
+
+Kuciste 3
+Jedno kuciste sa spojene dve transparentne strane:
+prednja w/h: 28.5x40.8 cm
+bocna w/h: 40.7x41.6 cm
+
+Finalni format, jedan fajl za side i front za najvece dimenzije:
+w/h 69.2 x 41.6 cm
+
+
+
+Fomat: PSD

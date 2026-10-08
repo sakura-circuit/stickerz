@@ -12,7 +12,7 @@ let totalImages = TOTAL_IMAGES;
 
 // Returns the path for an image number
 function getImagePath(number) {
-    return `my art/art ${number}/art ${number}.png`;
+    return `data/my art/art ${number}/art ${number}.png`;
 }
 
 // Display an image
